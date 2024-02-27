@@ -4,23 +4,23 @@ This report conducts a comprehensive analysis of Superstore's business performan
 The aim is to provide actionable insights into strategic decision-making.
  1. Sales Over Time: 
 Key Findings:
-• Highest Sales Date: 2012-01-14 with $52,345.77. 
-• Lowest Sales Date: 2009-01-01 with $180.36. 
+• Highest Sales Date: 2012-01-14 with N52,345.77. 
+• Lowest Sales Date: 2009-01-01 with N180.36. 
 Analysis: 
 • Fluctuating sales with an overall positive trend. 
 • Notable spikes in 2010 and 2012 require further investigation. 
 • Potential seasonality or external factors influencing sales patterns. 
 3. Profit by Province: 
 Key Findings: 
-• Highest Profit Province: Ontario with $352,263.56. 
-• Lowest Profit Province: Nunavut with $1,506.44. 
+• Highest Profit Province: Ontario with N352,263.56. 
+• Lowest Profit Province: Nunavut with N1,506.44. 
 Analysis: 
 • Ontario, Alberta, and British Columbia are significant profit contributors. 
 • Nunavut presents an opportunity for profit optimization. 
 4. Shipping Cost Breakdown: 
 Key Findings: 
-• Highest Shipping Cost Mode: Delivery Truck with $51,144.54. 
-• Lowest Shipping Cost Mode: Express Air with $7,578.47. 
+• Highest Shipping Cost Mode: Delivery Truck with N51,144.54. 
+• Lowest Shipping Cost Mode: Express Air with N7,578.47. 
 Analysis: 
 • Delivery Truck and Regular Air are major contributors to shipping costs. 
 • Cost optimization opportunities, particularly in Express Air. 
